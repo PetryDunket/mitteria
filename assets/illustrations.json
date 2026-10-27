@@ -1,0 +1,61 @@
+{
+  "saved_at": "2026-10-27T19:42:02+02:00",
+  "timezone": "Europe/Kyiv",
+  "generator": "OpenAI image_gen",
+  "illustrations": [
+    {
+      "key": "hero",
+      "prompt": "Use case: illustration-story. Asset type: wide editorial hero illustration for a polished Russian fantasy world encyclopedia called Mitteria. Create a richly detailed painterly panorama, landscape 16:9, like a handsome illustrated travel atlas: an unnamed inhabited medieval fantasy town viewed just outside its stone gate at morning. Foreground has a modest market, cart of wool, small anonymous travelers in practical cloaks, a roadside inn; town roofs, a stone bridge and a quiet river recede into green hills. Warm cream limestone, weathered timber, moss green and muted teal, soft atmospheric light, tactile painted detail, natural believable architecture. Intriguing and welcoming without being sugary. Composition panoramic with a readable large town silhouette, room for a subtle UI title overlay on the upper left; edge details may crop. This is an atmospheric artistic composite, NOT a canonical named capital, NOT a map. No text, letters, logos, watermark, visible flags or religious emblems. No giant magical towers, flying castles, dragons, firearms, modern machinery, closeup portraits, named characters. Refined hand-painted realism, not UI mockup, not photorealistic photo."
+    },
+    {
+      "key": "north",
+      "prompt": "Use case: illustration-story. Asset type: landscape editorial illustration for the northern lands of Mitteria, Dun Moroz, a unified state of gnomes and dwarves with a great fortified stone wall. Wide 16:9 painterly illustrated-atlas scene. A monumental long stone defensive wall runs across a snowy mountain foothill, with a few sturdy watch towers and an open supply gate. Small stone workshops and timber store sheds by the gate, a supply sled, tiny anonymous bundled workers, discreet warm light at the doorways. Cold blue-grey snow, pale stone, pine green, restrained amber warmth. Natural mountain weather and strong believable architecture. Quiet daily work, not a battle. Atmospheric imagined view of the northern frontier, NOT a precise named settlement, NOT a map, no claim to exact geography. Match a refined old fantasy travel-atlas painting with fine brush detail and clean composition, no text or symbols. No armies attacking, no monsters, no gods, no blood, no dragons, no steampunk or modern machines, no magical mechanisms, no readable emblems or lettering."
+    },
+    {
+      "key": "oasis",
+      "prompt": "Use case: illustration-story. Asset type: landscape editorial illustration for the desert confederation of oasis cities in the fantasy world Mitteria. Wide 16:9 exquisite painterly travel-atlas scene: unnamed walled oasis town in a warm sandy basin, green gardens and palms around visible irrigation water, shaded narrow lanes with cloth canopies, pale clay and sandstone buildings, modest caravan arriving at the outer market, small anonymous clothed travelers. Humane lived-in city, not an enormous imperial palace. Light flowing fabrics and shaded work areas feel practical. Warm ochre and ivory, jade green gardens, muted turquoise water, clear afternoon atmosphere and fine architectural texture. Artistic composite of oasis urban life, NOT an exact named city, NOT a map. No text, modern technology, logos, flags, religious emblems, demons, gods, combat or named characters. Match refined hand-painted realism of a premium fantasy encyclopedia, restrained colors, not a videogame screenshot and not UI."
+    }
+  ],
+  "captions": {
+    "hero": "Городская жизнь Миттерии — художественный образ неназванного города",
+    "north": "Северный рубеж Дун Мороза — художественный образ стены и ремесленной жизни",
+    "oasis": "Оазисные города песчаной конфедерации — собирательный художественный образ",
+    "map": "Карта известных земель Миттерии · исходная карта мира",
+    "elfsweyr": "Эльфсвейр — художественный образ архитектуры",
+    "valenwood": "Валенвуд — художественный образ архитектуры",
+    "bretnos": "Бретнос — художественный образ архитектуры",
+    "normania": "Нормания — художественный образ архитектуры",
+    "swabia": "Швабия — художественный образ архитектуры",
+    "galich": "Галич — художественный образ архитектуры",
+    "octanius": "Империя Октаниус — художественный образ архитектуры",
+    "holy-region": "Божья область — художественный образ архитектуры",
+    "teutonia": "Тевтония — художественный образ архитектуры",
+    "halfling-kingdom": "Королевство Халфлинг — художественный образ архитектуры",
+    "alben": "Республика Альбен — художественный образ архитектуры",
+    "vezer": "Республика Везер — художественный образ архитектуры",
+    "rimuris": "Республика Римурис — художественный образ архитектуры",
+    "waterstone": "Республика Вотерстоун — художественный образ архитектуры",
+    "coliseum": "Город Колизей — художественный образ архитектуры",
+    "two-islands": "Государство Двух Островов — художественный образ архитектуры",
+    "xerian-confederation": "Ксерийская конфедерация — художественный образ архитектуры",
+    "people-humans": "Люди Миттерии — художественный образ повседневной жизни",
+    "people-dwarves-gnomes": "Дворфы и гномы — художественный образ ремесленного двора",
+    "people-goliaths": "Голиафы — художественный образ горного быта",
+    "people-elves-fairies": "Эльфы, полуэльфы и феи — художественная сцена у островной мастерской",
+    "people-dragonborn": "Драконорождённые — художественный образ семейного двора",
+    "people-halflings": "Полурослики — художественный образ повседневной жизни",
+    "people-tabaxi": "Табакси — художественный образ жизни оазисного города",
+    "people-goblins": "Гоблины — художественный образ лесного поселения",
+    "people-tieflings": "Тифлинги в вольном городе — художественный образ новой жизни",
+    "mitra-temple": "Храмовый образ Митры — художественная интерпретация церковного учения",
+    "clan-kerrilon": "Керрилон — художественный образ открытых дворов и галерей",
+    "clan-khrebeton": "Хребетон — художественный образ горных террас и укреплённых дворов",
+    "clan-yascherovod": "Ящеровод — художественный образ мастерских и достраиваемых галерей",
+    "clan-bronevaz": "Броневаз — художественный образ строгих фасадов и общих залов",
+    "kibat": "Кибат — портрет предоставлен мастером",
+    "bjorn": "Бьёрн Торсен — портрет предоставлен мастером",
+    "konrad": "Конрад Кринжевальд — портрет предоставлен мастером",
+    "kevin": "Кевин Акранех — портрет предоставлен мастером"
+  },
+  "note": "Собирательные художественные образы; исходная карта скопирована без изменения."
+}

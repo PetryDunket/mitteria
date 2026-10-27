@@ -1,0 +1,58 @@
+[
+  {
+    "key": "kibat",
+    "title": "Кибат",
+    "path": "campaign/web/mitteria-v4-html/assets/portraits-011/kibat.png",
+    "caption": "Кибат — портрет предоставлен мастером",
+    "articleIds": [
+      "kibat"
+    ],
+    "source": "C:/Users/Expert/Downloads/14_20240807175415.png",
+    "generator": null,
+    "unchanged": true,
+    "saved_at": "2026-10-27T18:44:24+02:00",
+    "sha256": "e6e54eeeb250ed146b2ff3e82fc58d07a7b02d70eba28f2e58738acbe62c1328"
+  },
+  {
+    "key": "bjorn",
+    "title": "Бьёрн Торсен",
+    "path": "campaign/web/mitteria-v4-html/assets/portraits-011/bjorn.webp",
+    "caption": "Бьёрн Торсен — портрет предоставлен мастером",
+    "articleIds": [
+      "bjorn"
+    ],
+    "source": "C:/Users/Expert/Downloads/image.webp",
+    "generator": null,
+    "unchanged": true,
+    "saved_at": "2026-10-27T18:44:24+02:00",
+    "sha256": "3f41c17953f34efcf91dca7fd469fa311003481553890d1ee150f35eb3e1d1a5"
+  },
+  {
+    "key": "konrad",
+    "title": "Конрад Кринжевальд",
+    "path": "campaign/web/mitteria-v4-html/assets/portraits-011/konrad.png",
+    "caption": "Конрад Кринжевальд — портрет предоставлен мастером",
+    "articleIds": [
+      "konrad"
+    ],
+    "source": "C:/Users/Expert/AppData/Local/Temp/codex-clipboard-4a575d1c-9a7b-43bf-84ee-0bb01eada13b.png",
+    "generator": null,
+    "unchanged": true,
+    "saved_at": "2026-10-27T18:44:24+02:00",
+    "sha256": "ee831b1aefb105369a2d15e39e3cebcb5b79d6af55069d9117d1769cb1f97a41"
+  },
+  {
+    "key": "kevin",
+    "title": "Кевин Акранех",
+    "path": "campaign/web/mitteria-v4-html/assets/portraits-011/kevin.png",
+    "caption": "Кевин Акранех — портрет предоставлен мастером",
+    "articleIds": [
+      "kevin"
+    ],
+    "source": "C:/Users/Expert/AppData/Local/Temp/codex-clipboard-3836856a-15b9-46c3-b1c5-38c02acc2a8e.png",
+    "generator": null,
+    "unchanged": true,
+    "saved_at": "2026-10-27T18:44:24+02:00",
+    "sha256": "f03d3b35826124c8246bbdeaa2ca99c4aa17d43bcb8b66b94129d81b6e3c1525"
+  }
+]

@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="ru" data-theme="light" data-text-size="normal">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#f5f3ec">
+  <meta name="description" content="Миттерия — иллюстрированная энциклопедия известного мира. Государства, история, народы, вера и дороги авантюриста.">
+  <title>Миттерия — энциклопедия мира</title>
+  <style>{{STYLE}}</style>
+</head>
+<body>
+  <a class="skip-link" href="#main">Перейти к чтению</a>
+  <div class="drawer-backdrop" id="drawer-backdrop" hidden></div>
+  <aside class="sidebar" id="sidebar" aria-label="Основная навигация">
+    <a class="brand" href="#home" aria-label="Миттерия — главная"><span id="brand-emblem"></span><span><b>Миттерия</b><small>Энциклопедия мира</small></span></a>
+    <button class="search-launch" type="button" data-action="search"><span class="icon" data-icon="search"></span><span>Найти в энциклопедии</span><kbd>Ctrl K</kbd></button>
+    <nav id="navigation" aria-label="Разделы энциклопедии"></nav>
+    <div class="sidebar-bottom"><button class="random-link" type="button" data-action="random"><span class="icon" data-icon="shuffle"></span>Случайная статья</button><p><span class="edition-dot"></span>Редакция IV <span>·</span> Для игроков</p></div>
+  </aside>
+  <div class="workspace">
+    <header class="topbar">
+      <div class="topbar-left"><button class="icon-button mobile-toggle" type="button" data-action="menu" aria-label="Открыть оглавление" aria-controls="sidebar" aria-expanded="false"><span class="icon" data-icon="menu"></span></button><nav class="breadcrumbs" id="breadcrumbs" aria-label="Хлебные крошки"></nav></div>
+      <div class="topbar-actions"><button class="icon-button mobile-search" type="button" data-action="search" aria-label="Поиск"><span class="icon" data-icon="search"></span></button><button class="icon-button" type="button" data-action="font" aria-label="Изменить размер текста" title="Размер текста"><span class="font-icon">Аа</span></button><button class="icon-button" id="theme-toggle" type="button" data-action="theme" aria-label="Включить тёмную тему" title="Переключить тему"><span class="icon" data-icon="moon"></span></button></div>
+    </header>
+    <main id="main" tabindex="-1"></main>
+    <footer class="page-footer"><span>Миттерия</span><span>История, которую можно продолжить</span><a href="#home">На главную <span aria-hidden="true">↗</span></a></footer>
+  </div>
+  <dialog class="search-dialog" id="search-dialog" aria-labelledby="search-title">
+    <div class="search-dialog-header"><span class="icon" data-icon="search"></span><label class="sr-only" id="search-title" for="search-input">Поиск по энциклопедии</label><input id="search-input" type="search" placeholder="Страна, имя или слово…" autocomplete="off" spellcheck="false"><button class="dialog-close" type="button" data-action="close-search" aria-label="Закрыть поиск">Esc</button></div>
+    <div class="search-status" id="search-status" role="status"></div><div class="search-results" id="search-results"></div><div class="search-hint"><span>↑ ↓ выбрать</span><span>Enter открыть</span><span>Esc закрыть</span></div>
+  </dialog>
+  <dialog class="image-dialog" id="image-dialog" aria-labelledby="image-title">
+    <div class="image-toolbar"><strong id="image-title">Иллюстрация</strong><div><button class="icon-button" type="button" data-action="zoom-out" aria-label="Уменьшить изображение">−</button><button class="zoom-reset" type="button" data-action="zoom-reset" aria-label="Сбросить масштаб">100%</button><button class="icon-button" type="button" data-action="zoom-in" aria-label="Увеличить изображение">+</button><button class="icon-button" type="button" data-action="close-image" aria-label="Закрыть изображение"><span class="icon" data-icon="close"></span></button></div></div>
+    <div class="image-stage" id="image-stage"><img id="zoom-image" alt=""></div><p id="image-caption"></p>
+  </dialog>
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+  <noscript><div class="nojs-book"><p>Полный текст энциклопедии</p>{{FALLBACK}}</div></noscript>
+  <script>{{DATA}}</script>
+  <script>{{APP}}</script>
+</body>
+</html>
